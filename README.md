@@ -1,6 +1,8 @@
 # Breaking APIs: A Bug Hunter's Guide
 Uncovering real-world vulnerabilities through exposed documentation and insecure endpoints.
 
+![Cover](https://github.com/user-attachments/assets/668962f0-745d-4edb-991b-77140208d85b) <br/>
+
 ---
 
 ## 🔍 What is API Testing?
